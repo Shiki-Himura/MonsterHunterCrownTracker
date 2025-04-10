@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>MHWilds_Icons/big_crown.png</file>
+        <file>MHWilds_Icons/monster (0).png</file>
+        <file>MHWilds_Icons/monster (1).png</file>
+        <file>MHWilds_Icons/monster (2).png</file>
+        <file>MHWilds_Icons/monster (3).png</file>
+        <file>MHWilds_Icons/monster (4).png</file>
+        <file>MHWilds_Icons/monster (5).png</file>
+        <file>MHWilds_Icons/monster (6).png</file>
+        <file>MHWilds_Icons/monster (7).png</file>
+        <file>MHWilds_Icons/monster (8).png</file>
+        <file>MHWilds_Icons/monster (9).png</file>
+        <file>MHWilds_Icons/monster (10).png</file>
+        <file>MHWilds_Icons/monster (11).png</file>
+        <file>MHWilds_Icons/monster (12).png</file>
+        <file>MHWilds_Icons/monster (13).png</file>
+        <file>MHWilds_Icons/monster (14).png</file>
+        <file>MHWilds_Icons/monster (15).png</file>
+        <file>MHWilds_Icons/monster (16).png</file>
+        <file>MHWilds_Icons/monster (17).png</file>
+        <file>MHWilds_Icons/monster (18).png</file>
+        <file>MHWilds_Icons/monster (19).png</file>
+        <file>MHWilds_Icons/monster (20).png</file>
+        <file>MHWilds_Icons/monster (21).png</file>
+        <file>MHWilds_Icons/monster (22).png</file>
+        <file>MHWilds_Icons/monster (23).png</file>
+        <file>MHWilds_Icons/monster (24).png</file>
+        <file>MHWilds_Icons/monster (25).png</file>
+        <file>MHWilds_Icons/monster (26).png</file>
+        <file>MHWilds_Icons/small_crown.png</file>
+    </qresource>
+</RCC>
