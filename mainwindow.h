@@ -22,6 +22,8 @@ private slots:
 
     void on_actionReset_Crowns_triggered();
 
+    void on_actionAbout_triggered();
+
 private:
     Ui::MainWindow *ui;
 

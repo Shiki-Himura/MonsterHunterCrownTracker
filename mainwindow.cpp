@@ -11,6 +11,7 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    MainWindow::setFixedSize(780,715);
 
     CreateMonsterGrid();
 }
@@ -75,5 +76,19 @@ void MainWindow::on_actionReset_Crowns_triggered()
     }
 
     CreateMonsterGrid();
+}
+
+
+void MainWindow::on_actionAbout_triggered()
+{
+    QMessageBox::about(this, "About Crown Tracker",
+        "Title:        Crown Tracker\n"
+        "Version:   0.2\n"
+        "Creator:   Shiki\n\n"
+        "Purpose:\n"
+        "This application helps you track the crowns in Monster Hunter Wilds.\n\n"
+        "For more information, feedback, or suggestions\n"
+        "Contact me on Discord:\n\n"
+        "shiki_himura\n");
 }
 
