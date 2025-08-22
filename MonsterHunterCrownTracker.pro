@@ -29,4 +29,4 @@ DISTFILES += \
     roadmap_kinda
 
 RESOURCES += \
-    MonsterIcons.qrc
+    MHWildsIcons.qrc

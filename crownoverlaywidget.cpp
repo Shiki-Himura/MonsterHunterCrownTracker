@@ -101,6 +101,7 @@ void CrownOverlayWidget::CreateMonsterNameList()
         "G. Rathalos",
         "Gypceros",
         "Hirabami",
+        "Lagiacrus",
         "Lala-Barina",
         "Mizutsune",
         "Nerscylla",
@@ -110,6 +111,7 @@ void CrownOverlayWidget::CreateMonsterNameList()
         "Rathian",
         "Rey-Dau",
         "Rompopolo",
+        "Seregios",
         "Uth-Duna",
         "Xu-Wu",
         "Yian-Kut-Ku"
